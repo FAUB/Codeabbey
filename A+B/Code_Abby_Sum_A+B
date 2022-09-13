@@ -1,0 +1,9 @@
+def addition(num1, num2):
+    result = num1 + num2
+    return result
+
+
+
+a = 8722
+b = 14788
+print(addition(a, b))
