@@ -1,0 +1,9 @@
+
+def make_sum(num1, num2):
+    result = num1 + num2
+    return result
+
+b = 14788
+a = 8722
+
+print(make_sum(a, b))
