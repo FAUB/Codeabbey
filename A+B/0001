@@ -1,0 +1,12 @@
+
+def add_sumar(num1, num2):
+    result = num1 + num2
+    return result
+
+
+
+
+
+a = 8722
+b = 14788
+print(add_sumar(a, b))
